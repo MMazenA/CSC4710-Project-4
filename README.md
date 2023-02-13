@@ -1,6 +1,6 @@
 # CSC4710-Project-4
 
-# Project 4: ToDo List version 4
+### Project 4: ToDo List version 4
 
 Create a web application to store a to-do list.
 
